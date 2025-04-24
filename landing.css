@@ -1,0 +1,93 @@
+    #basic{
+    margin-left: 22px;
+    color:red;
+}
+#sanserif{
+    margin:22px;
+}
+#nav{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+#h2{
+    margin-left: 200px;
+    text-shadow: 2px red 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#p{
+word-wrap: break-word;
+text-align: justify;
+margin-left: 200px;  
+
+}
+    #p2{
+        margin-top: 200px;
+        text-align: justify;
+        word-spacing: 1px;
+        margin-left: 200px ;
+    }
+
+    #div{
+width: 700px;
+height:70px;
+border:20px;
+margin-left:200px ;
+background-color: white;
+text-align: center;
+}
+#nav2{
+  background-color: black; 
+  height:50px;
+  margin-left: ;
+  
+
+}
+.a{
+    margin-left: 200px;
+    color:white;
+
+}
+#h4{
+    margin-left: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#input{
+    margin-left: 1000px;
+    margin-top:10px;
+}
+#p3{
+    margin-left: 200px;
+
+}
+.div2{
+    width:70px;
+    height:45px;
+color:orangered;
+border:2px orangered;
+margin-left: 200px;
+margin-top:50px;
+
+}
+#div3{
+
+}
+.span3{
+    font-size: x-large;
+}
+#download2{
+    width:150px;
+    height:4 0px;
+    color:white;
+    background-color: orangered;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
